@@ -9,8 +9,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>jwd-task01-template</name>
-    <url>http://maven.apache.org</url>
+    <name>jwd-task02</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
