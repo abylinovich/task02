@@ -1,9 +1,9 @@
 package by.tc.task02.service;
 
-import by.tc.task02.entity.ElementXML;
+import by.tc.task02.entity.AbstractTag;
 
 public interface IParserXMLService {
 
-    ElementXML parseXML(String path);
+    AbstractTag parseXML(String path);
 
 }

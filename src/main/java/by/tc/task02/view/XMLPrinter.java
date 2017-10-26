@@ -1,9 +1,9 @@
 package by.tc.task02.view;
 
-import by.tc.task02.entity.ElementXML;
+import by.tc.task02.entity.AbstractTag;
 
 public interface XMLPrinter {
 
-    void printXML(ElementXML entity);
+    void printEntities(AbstractTag entity);
 
 }

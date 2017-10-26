@@ -1,9 +1,9 @@
 package by.tc.task02.dao;
 
-import by.tc.task02.entity.ElementXML;
+import by.tc.task02.entity.AbstractTag;
 
 public interface IParserXMLDAO {
 
-    ElementXML parseXML(String path);
+    AbstractTag parseXML(String path);
 
 }
